@@ -1,3 +1,6 @@
+import java.time.LocalDateTime;
+
+
 class HelloWorld {
   public static void main(String[] args) {
     // all these types are consist of bits
@@ -27,5 +30,10 @@ class HelloWorld {
     }
 
     int[] arr2 = arr;
+
+
+    System.out.println("It is now: " + LocalDateTime.now());
+
+
   }
 }

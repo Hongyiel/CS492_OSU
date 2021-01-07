@@ -2,14 +2,24 @@
 
  - Here is how running code on command line
 
-~/Desktop/cs492  main ✔                                                    0m  
+~/Desktop/cs492  main ✔   
+                                                   
 ▶ javac HelloWorld.java
+
 (base)
-~/Desktop/cs492  main ✗                                                  6m ◒  
+
+~/Desktop/cs492  main ✗       
+
 ▶ ls
+
 HelloWorld.class HelloWorld.java  Helloworld.kt    README.md
+
 (base)
-~/Desktop/cs492  main ✗                                                  6m ◒  
+
+~/Desktop/cs492  main ✗                                
+
 ▶ java HelloWorld
+
 Hello, world!
-(base) 
+
+(base)
